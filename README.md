@@ -3,5 +3,8 @@
 
 ## Langs:
 - Python
-- Shell Scripts (Bash/POSIX)
+- Shell Scripts (Bash)
 - C/C++
+
+## OS:
+- GNU/Linux
