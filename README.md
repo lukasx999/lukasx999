@@ -9,6 +9,8 @@
 ## OS:
 - GNU/Linux
 
+***
+
 ## Stats:
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lukasx999&show_icons=true&theme=tokyonight)
