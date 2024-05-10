@@ -7,7 +7,7 @@
 - C/C++
 
 ## OS:
-- GNU/Linux
+- Arch GNU/Linux
 
 ***
 
