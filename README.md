@@ -3,7 +3,7 @@
 
 ## Langs:
 - Python
-- Shell Scripts (Bash)
+- Bash/Sh
 - C/C++
 
 ## OS:
