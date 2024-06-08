@@ -6,9 +6,6 @@
 - Bash/Sh
 - C/C++
 
-## OS:
-- Arch GNU/Linux
-
 ***
 
 ## Stats:
