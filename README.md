@@ -2,9 +2,10 @@
 # Greetings
 
 ## Langs:
-- Python
-- Bash/Sh
-- C/C++
+- Python3
+- Bash
+- C
+- Lua (Nvim)
 
 ***
 
