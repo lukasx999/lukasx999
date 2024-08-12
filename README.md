@@ -1,10 +1,10 @@
 
 # Greetings
 
-## Langs:
+## Languages:
+- C
 - Python3
 - Bash
-- C
 - Lua (Nvim)
 
 ***
