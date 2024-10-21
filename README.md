@@ -4,10 +4,7 @@
 ## Languages:
 - C
 - C++
-- Python3
-- JavaScript
-- Bash
-- Lua
+- Rust
 
 ***
 
