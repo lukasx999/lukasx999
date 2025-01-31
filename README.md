@@ -3,8 +3,8 @@
 
 ## Languages:
 - C
-- C++
 - Rust
+- Ocaml
 
 ***
 
