@@ -3,6 +3,11 @@
 - Rust
 - Ocaml
 
+## Env:
+- Neovim
+- Tmux
+- GCC
+
 ***
 
 ## Stats:
