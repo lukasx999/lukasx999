@@ -4,8 +4,8 @@
 - Ocaml
 
 ## Env:
-- Neovim
-- Tmux
+- x86_64-pc-linux-gnu
+- Tmux + Vim
 - GCC
 
 ***
