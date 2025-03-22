@@ -1,14 +1,3 @@
-## Languages:
-- C
-- Rust
-- Ocaml
-
-## Env:
-- x86_64-pc-linux-gnu
-- Tmux + Vim
-- GCC
-
-***
 
 ## Stats:
 
